@@ -158,7 +158,7 @@ python main.py
 * Multi-language fake news detection
 
 ---
-Dataset Credit:
+## Dataset Credit:
 - C. Bisaillon, “Fake and Real News Dataset,” Kaggle, 2019.
 - Link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 - License: CC BY-NC-SA 4.0
