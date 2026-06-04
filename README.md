@@ -153,7 +153,7 @@ python main.py
 ---
 
 ## Author
-Developed as a team.
-Hamna Mahmood
-linkedin.com/in/hamnamahmood
-hamnamahmood004@gmail.com
+- Developed as a team.
+- Hamna Mahmood
+- linkedin.com/in/hamnamahmood
+- hamnamahmood004@gmail.com
