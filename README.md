@@ -92,20 +92,25 @@ Among all evaluated models, **Random Forest achieved the highest test accuracy o
 ## Project Structure
 
 Fake-News-Detection-System/
+│
 ├── source_code/
-│ ├── logistic_regression.py
-│ ├── decision_tree.py
-│ ├── random_forest.py
-│ ├── cnn.py
-│ ├── lstm.py
-│ ├── main.py
-│ └── preprocess.py
+│   ├── logistic_regression.py
+│   ├── decision_tree.py
+│   ├── random_forest.py
+│   ├── cnn.py
+│   ├── lstm.py
+│   ├── main.py
+│   └── preprocess_dl.py
+│   └── preprocess_ml.py
 │
 ├── images/
-│ ├── confusion_matrix_rf.png
-│ ├── confusion_matrix_lr.png
-│ ├── accuracy_comparison.png
-│ └── sample_output.png
+│   ├── confusion_matrix_logistic_regression.png
+│   ├── confusion_matrix_decision_tree.png
+│   ├── confusion_matrix_random_forest.png
+│   ├── confusion_matrix_lstm.png
+│   ├── confusion_matrix_cnn.png
+│   ├── comparison.png
+│   └── sample_output.png
 │
 ├── requirements.txt
 ├── README.md
