@@ -91,7 +91,6 @@ Among all evaluated models, **Random Forest achieved the highest test accuracy o
 
 ## Project Structure
 
-```text
 Fake-News-Detection-System/
 ├── source_code/
 │ ├── logistic_regression.py
@@ -112,8 +111,6 @@ Fake-News-Detection-System/
 ├── README.md
 └── .gitignore
 
----
-
 ## Technologies Used
 
 * Python
@@ -121,10 +118,8 @@ Fake-News-Detection-System/
 * NumPy
 * Scikit-Learn
 * TensorFlow / Keras
-* NLTK
 * Matplotlib
-
----
+* Seaborn
 
 ## Installation
 
