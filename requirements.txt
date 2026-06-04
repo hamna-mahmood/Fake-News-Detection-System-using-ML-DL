@@ -1,0 +1,10 @@
+# Requirements
+All libraries given below were used in the development of this project.
+1. numpy
+2. pandas
+3. scikit-learn
+4. matplotlib
+5. seaborn
+6. sklearn
+7. tensorflow
+8. keras
