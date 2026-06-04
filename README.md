@@ -90,7 +90,7 @@ Among all evaluated models, **Random Forest achieved the highest test accuracy o
 ---
 
 ## Project Structure
-
+```text
 Fake-News-Detection-System/
 │
 ├── source_code/
