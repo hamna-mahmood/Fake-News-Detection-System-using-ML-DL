@@ -79,11 +79,11 @@ The performance of all models was evaluated on the testing dataset.
 
 | Model               | Accuracy   |
 | ------------------- | ---------- |
-| Logistic Regression | XX.XX%     |
-| Decision Tree       | XX.XX%     |
+| Logistic Regression | 98.86%     |
+| Decision Tree       | 99.59%     |
 | Random Forest       | **99.76%** |
-| CNN                 | XX.XX%     |
-| LSTM                | XX.XX%     |
+| CNN                 | 98.35%     |
+| LSTM                | 97.80%     |
 
 Among all evaluated models, **Random Forest achieved the highest test accuracy of 99.76%**, making it the best-performing model for this dataset.
 
@@ -153,5 +153,7 @@ python main.py
 ---
 
 ## Author
-
-Developed as a Machine Learning and Deep Learning project for news credibility classification and misinformation detection.
+Developed as a team.
+Hamna Mahmood
+linkedin.com/in/hamnamahmood
+hamnamahmood004@gmail.com
