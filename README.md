@@ -5,7 +5,10 @@
 The Fake News Detection System is a Machine Learning and Deep Learning project developed to classify news articles as **Real** or **Fake** based on their textual content.
 
 The project uses a dataset containing over **44,000 news articles** and compares the performance of multiple Machine Learning and Deep Learning models. The objective is to identify the most effective approach for detecting misinformation in news content.
+## Demo
 
+Input: News article text  
+Output: Real / Fake prediction with confidence score
 ---
 
 ## Dataset
@@ -73,6 +76,22 @@ For Deep Learning models:
 
 ---
 
+### Confusion Matrix - Logistic Regression
+![Logistic Regression Confusion Matrix](Images/confusion_matrix_logistic_regression.PNG)
+
+### Confusion Matrix - Decision Tree
+![Logistic Regression Confusion Matrix](Images/confusion_matrix_decision_tree.PNG)
+
+### Confusion Matrix - Random Forest
+![Logistic Regression Confusion Matrix](Images/confusion_matrix_random_forest.PNG)
+
+### Confusion Matrix - CNN
+![Logistic Regression Confusion Matrix](Images/confusion_matrix_cnn.PNG)
+
+### Confusion Matrix - LSTM
+![Logistic Regression Confusion Matrix](Images/confusion_matrix_lstm.PNG)
+
+
 ## Results
 
 The performance of all models was evaluated on the testing dataset.
@@ -88,6 +107,17 @@ The performance of all models was evaluated on the testing dataset.
 Among all evaluated models, **Random Forest achieved the highest test accuracy of 99.76%**, making it the best-performing model for this dataset.
 
 ---
+
+## Model Performance (F1-Score)
+
+| Model                     | F1-Score | Type |
+|--------------------------|----------|------|
+| Logistic Regression      | 0.99     | ML   |
+| ⭐ Random Forest         | 1.00     | ML   |
+| Decision Tree            | 0.99     | ML   |
+| LSTM                     | 0.97     | DL   |
+| CNN (1D Convolution)     | 0.99     | DL   |
+
 
 ## Project Structure
 ```text
