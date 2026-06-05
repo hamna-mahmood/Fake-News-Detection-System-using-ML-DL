@@ -7,7 +7,7 @@ The Fake News Detection System is a Machine Learning and Deep Learning project d
 The project uses a dataset containing over **44,000 news articles** and compares the performance of multiple Machine Learning and Deep Learning models. The objective is to identify the most effective approach for detecting misinformation in news content.
 
 - Input: News article text  
-= Output: Real / Fake prediction with confidence score
+- Output: Real / Fake prediction with confidence score
 ---
 
 ## Dataset
